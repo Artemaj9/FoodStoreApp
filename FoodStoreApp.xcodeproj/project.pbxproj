@@ -20,6 +20,7 @@
 		AC0BD9802A4C8F11007E0568 /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0BD97F2A4C8F11007E0568 /* NavigationBarView.swift */; };
 		AC0BD9832A4CB6DD007E0568 /* DishModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0BD9822A4CB6DD007E0568 /* DishModel.swift */; };
 		AC0BD9862A4CB985007E0568 /* DishModelDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0BD9852A4CB985007E0568 /* DishModelDataService.swift */; };
+		AC0BD9882A4CF01A007E0568 /* MenuSectionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0BD9872A4CF01A007E0568 /* MenuSectionsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		AC0BD97F2A4C8F11007E0568 /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
 		AC0BD9822A4CB6DD007E0568 /* DishModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DishModel.swift; sourceTree = "<group>"; };
 		AC0BD9852A4CB985007E0568 /* DishModelDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DishModelDataService.swift; sourceTree = "<group>"; };
+		AC0BD9872A4CF01A007E0568 /* MenuSectionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuSectionsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				AC0BD9722A4C8131007E0568 /* MainScreenView.swift */,
 				AC0BD9742A4C8782007E0568 /* ShoppingCartView.swift */,
 				AC0BD9792A4C889B007E0568 /* HomeView.swift */,
+				AC0BD9872A4CF01A007E0568 /* MenuSectionsView.swift */,
 				AC0BD97F2A4C8F11007E0568 /* NavigationBarView.swift */,
 				AC0BD97D2A4C89C4007E0568 /* AccountView.swift */,
 				AC0BD9772A4C8808007E0568 /* DishesView.swift */,
@@ -193,6 +196,7 @@
 				AC0BD9752A4C8782007E0568 /* ShoppingCartView.swift in Sources */,
 				AC0BD97C2A4C8937007E0568 /* SearchView.swift in Sources */,
 				AC0BD97E2A4C89C4007E0568 /* AccountView.swift in Sources */,
+				AC0BD9882A4CF01A007E0568 /* MenuSectionsView.swift in Sources */,
 				AC0BD9862A4CB985007E0568 /* DishModelDataService.swift in Sources */,
 				AC0BD97A2A4C889B007E0568 /* HomeView.swift in Sources */,
 				AC0BD9782A4C8808007E0568 /* DishesView.swift in Sources */,

@@ -15,4 +15,5 @@ struct DishModel: Identifiable, Codable {
     let weght: Int
     let description: String
     let tegs: [String]
+   // var quantity = 1
 }

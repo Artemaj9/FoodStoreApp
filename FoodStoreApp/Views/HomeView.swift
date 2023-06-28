@@ -15,7 +15,7 @@ struct HomeView: View {
                 Image("img-bakeries")
                     .resizable()
                     .frame(width: 343,height: 148)
-                Text("Пекарни\nи конидитерские")
+                Text("Пекарни\nи кондитерские")
                     .font(.title3)
                     .fontWeight(.semibold)
                     .lineLimit(2)
