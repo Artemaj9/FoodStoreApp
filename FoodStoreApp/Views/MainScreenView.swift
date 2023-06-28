@@ -16,9 +16,9 @@ struct MainScreenView: View {
         
         TabView {
             
-            HomeView()
+            DishesView()
                 .tabItem {
-                    Image("ic-home").renderingMode(.template) 
+                    Image("ic-home").renderingMode(.template)
                     Text("Главная")
                 }
             SearchView()

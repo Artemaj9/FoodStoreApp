@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct NavigationBarView: View {
+    
     var body: some View {
         
         
